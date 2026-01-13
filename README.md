@@ -29,5 +29,3 @@ Representação das interações entre usuários e o sistema.
 
 ## Autor:
 Daniel Leal dos Santos
-
-🔗Versão hospedada no GitHub Pages
